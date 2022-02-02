@@ -14,7 +14,7 @@ Auto restart os
 #Win edtion 
 Encrypt all data documents and desktop
 restart os
-Extra js paypload for run in memory without save on disk and not be detectable of av
+Extra js payload for run in memory without save on disk and not be detectable of av
 
 #Macos edition
 Encrypt all data documents and desktop
