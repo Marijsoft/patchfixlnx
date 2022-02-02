@@ -4,7 +4,7 @@ this version have no effect if your os is in italian language
 
 What it does:
 #Linux edition (don't need to admin privilege)
-AutoEnable SUID to executable file 
+AutoEnable SUID to executable file root (*linux vulnerability*) 
 Make cronjob to run every hour for encrypt and restart os
 Encrypt all file on desktop and documents
 Drop text file on desktop 
