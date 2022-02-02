@@ -19,3 +19,5 @@ Extra js paypload for run in memory without save on disk and not be detectable o
 #Macos edition
 Encrypt all data documents and desktop
 restart os
+
+AVSCAN https://www.virustotal.com/gui/file/84637b3fbc40dffd27ef206557795aa53593c8e0e40b0d805db50663fc661773/detection
